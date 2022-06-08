@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06ee5136-7b20-426d-8daf-c405e1bb2eb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WMAD Structured.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 1/wmad202-assignment 1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 10/wmad202-assignment 10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 2/wmad202-assignment 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 3/wmad202-assignment 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 4/wmad202-assignment 4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 5/wmad202-assignment 5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 6/wmad202-assignment 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 7/wmad202-assignment 7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 8/wmad202-assignment 8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 9/wmad202-assignment 9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-lecture-note/wmad202-lecture-note.iml" afterDir="false" />
+    <list default="true" id="06ee5136-7b20-426d-8daf-c405e1bb2eb6" name="Changes" comment="Project 1: WMAD Structure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654582432050</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project 1: WMAD Structure">
+      <created>1654651340272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654651340272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project 1: WMAD Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 1: WMAD Structure" />
   </component>
 </project>
