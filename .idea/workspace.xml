@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ee5136-7b20-426d-8daf-c405e1bb2eb6" name="Changes" comment="Project 1: WMAD Structure">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment 2/src/ca/ciccc/wmad/assignment2/Assignment2Driver/Assignment2Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/WMAD202Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 2/src/ca/ciccc/wmad/assignment2/main/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 2/src/ca/ciccc/wmad/assignment2/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 2/src/ca/ciccc/wmad/assignment2/question1/question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-lecture-note/src/ca/ciccc/wmad/lecture/note/main/LecturenoteDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-lecture-note/src/ca/ciccc/wmad/lecture/note/main/lectureNoteDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/main/Assignment3Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/question1/question1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654657114976</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Project 1: WMAD Structure">
+      <created>1655282562693</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655282562693</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,14 +163,24 @@
         </entry>
       </map>
     </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="fd35f7af-d2e5-4c9e-96f5-96326e848657" value="TOOL_WINDOW" />
-      </map>
-    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project 1: WMAD Structure" />
     <option name="LAST_COMMIT_MESSAGE" value="Project 1: WMAD Structure" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WMAD_Structured$WMAD202Driver.ic" NAME="WMAD202Driver Coverage Results" MODIFIED="1655433651229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.*</FILTER>
+    </SUITE>
   </component>
 </project>
