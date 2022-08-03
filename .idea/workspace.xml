@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06ee5136-7b20-426d-8daf-c405e1bb2eb6" name="Changes" comment="Project 1: WMAD Structure">
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment 10/src/ca/ciccc/wmad/assignment10/question1/TestExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment 8/src/ca/ciccc/wmad/assignment8/main/Main/Assignment8Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment 8/src/ca/ciccc/wmad/assignment8/main/question1/Foo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/WMAD202Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 3/src/ca/ciccc/wmad/assignment/ca/main/Assignment3Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 4/src/ca/ciccc/wmad/assignment4/main/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 4/src/ca/ciccc/wmad/assignment4/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 4/src/ca/ciccc/wmad/assignment4/question1/question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 5/src/ca/ciccc/wmad/assignment5/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 5/src/ca/ciccc/wmad/assignment5/main/Assignment5Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 5/src/ca/ciccc/wmad/assignment5/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 5/src/ca/ciccc/wmad/assignment5/question1/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 6/src/ca/ciccc/wmad/assignment6/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 6/src/ca/ciccc/wmad/assignment6/main/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment 6/src/ca/ciccc/wmad/assignment6/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 10/src/ca/ciccc/wmad/assignment10/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 7/src/ca/ciccc/wmad/assignment7/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 7/src/ca/ciccc/wmad/assignment7/main/AssignmentDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 7/src/ca/ciccc/wmad/assignment7/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 8/src/ca/ciccc/wmad/assignment8/main/Assignment8Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 8/src/ca/ciccc/wmad/assignment8/question1/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 9/src/ca/ciccc/wmad/assignment9/main/Assignment9Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 9/src/ca/ciccc/wmad/assignment9/main/Assignment9Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment 9/src/ca/ciccc/wmad/assignment9/question1/question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment 9/src/ca/ciccc/wmad/assignment9/question1/question1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-lecture-note/src/ca/ciccc/wmad/lecture/note/main/lectureNoteDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-lecture-note/src/ca/ciccc/wmad/lecture/note/main/lectureNoteDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-lecture-note/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-lecture-note/src/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +27,16 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="-1" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="module-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -57,13 +65,70 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="WMAD202Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ca.ciccc.WMAD202Driver" />
-      <module name="wmad202-2022" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ca.ciccc.wmad.assignment8.main.Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problem2Exceptions">
+    <configuration name="Assignment9Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.wmad.assignment9.main.Assignment9Driver" />
+      <module name="wmad202-assignment 9" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ca.ciccc.*" />
+          <option name="PATTERN" value="ca.ciccc.wmad.assignment9.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.wmad.assignment9.question2.Calculator" />
+      <module name="wmad202-assignment 9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ciccc.wmad.assignment9.question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem2Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.wmad.assignment10.question2.Problem2Exceptions" />
+      <module name="wmad202-assignment 10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ciccc.wmad.assignment10.question2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.wmad.assignment10.question1.TestExceptions" />
+      <module name="wmad202-assignment 10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ciccc.wmad.assignment10.question1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ciccc.wmad.assignment9.question1.question1" />
+      <module name="wmad202-assignment 9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ciccc.wmad.assignment9.question1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WMAD202Driver" />
+        <item itemvalue="Application.Problem2Exceptions" />
+        <item itemvalue="Application.TestExceptions" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Assignment9Driver" />
+        <item itemvalue="Application.question1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +197,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655517186635</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Project 1: WMAD Structure">
+      <created>1657342212323</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1657342212323</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Project 1: WMAD Structure">
+      <created>1657342239319</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657342239319</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,8 +300,23 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WMAD_Structured$WMAD202Driver.ic" NAME="WMAD202Driver Coverage Results" MODIFIED="1657342130769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/WMAD_Structured$question1.ic" NAME="question1 Coverage Results" MODIFIED="1658801257085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.wmad.assignment9.question1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WMAD_Structured$WMAD202Driver.ic" NAME="WMAD202Driver Coverage Results" MODIFIED="1658276527197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>ca.ciccc.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WMAD_Structured$ca_ciccc_wmad_assignment8_main_question3_ApplicationDriver.ic" NAME="ca.ciccc.wmad.assignment8.main.question3.ApplicationDriver Coverage Results" MODIFIED="1658452903802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.wmad.assignment8.main.question3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WMAD_Structured$ApplicationDriver4Question.ic" NAME="ApplicationDriver4Question Coverage Results" MODIFIED="1658457970537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.wmad.assignment8.main.question4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WMAD_Structured$ApplicationDriver.ic" NAME="ApplicationDriver Coverage Results" MODIFIED="1658453250678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.wmad.assignment8.main.question2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/WMAD_Structured$Test64.ic" NAME="Test64 Coverage Results" MODIFIED="1658365997800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ciccc.wmad.assignment8.question1.*</FILTER>
     </SUITE>
   </component>
 </project>

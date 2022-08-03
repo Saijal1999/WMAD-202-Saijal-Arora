@@ -1,6 +1,6 @@
 package ca.ciccc;
 
-import ca.ciccc.wmad.assignment6.main.main;
+import ca.ciccc.wmad.assignment8.main.Main.Assignment8Driver;
 
 public class WMAD202Driver {
     public static void main(String[] args) {
@@ -10,7 +10,9 @@ public class WMAD202Driver {
         //Assignment2Driver.run();
        // Assignment4Driver.run();
         //Assignment5Driver.run();
-        main.test();
+       // main.test();
+        Assignment8Driver.run();
+        //AssignmentDriver.test();
     }
 }
 

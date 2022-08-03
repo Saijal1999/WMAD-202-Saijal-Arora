@@ -1,6 +1,6 @@
 package ca.ciccc.wmad.lecture.note.main;
 
-import ca.ciccc.wmad.JavaBasics.JavaBasics;
+import ca.ciccc.wmad.AnonymousClasses.HelloWorldAnonymousClass;
 
 public class lectureNoteDriver {
 
@@ -19,7 +19,8 @@ public class lectureNoteDriver {
         //JavaBasics.isPrime(11);
         //JavaBasics.add1();
         //JavaBasics.add2();
-        JavaBasics.add3(23,90);
+       // JavaBasics.add3(23,90);
+        HelloWorldAnonymousClass.main();
     }
 
 }
